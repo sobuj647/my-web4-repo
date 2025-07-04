@@ -27,3 +27,14 @@
  border-style: groove;
  border-color: aqua;
 }
+#about{
+    font-size: 30px;
+    text-shadow: 5px 0px 5px rgb(5, 39, 234);
+    background-color: rgb(255, 166, 0);
+    border: 2px solid red;
+    border-width: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 2px 2px 2px 2px;
+
+}
