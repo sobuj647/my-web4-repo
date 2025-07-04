@@ -1,0 +1,29 @@
+#heding{
+    background-image: url(./love.jpeg);
+    height: 500px;
+    background-size: cover;
+    /* margin: 5px 10px 5px 10px; */
+    border: 2px solid blue;
+}
+#web{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    border: 2px solid tomato;
+    box-shadow: 0px 2px rgb(118, 250, 114);
+
+}
+#welcome{
+    text-align: center;
+    color: rgb(255, 4, 0);
+    font-size: 40px;
+    padding-top: 50px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px rgb(255, 255, 0);
+}
+#line{
+ margin: 10px 0px 0px 0px;
+ border-width: 2px;
+ border-style: groove;
+ border-color: aqua;
+}
